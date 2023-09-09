@@ -6,10 +6,10 @@ delays function's order of execution
 changing property with js modal.style.display = 'none'
 
 ### FORM
-<form>
-<!-- `<label for="input-id">L a b e l</label>
-<input type="text" id="input-id" name="label-name" placeholder="Example"> 
-</form>` -->
+form
+...label for="input-id">L a b e l .../label...
+...input type="text" id="input-id" name="label-name" placeholder="Example" ...
+/form...
 name for access to the form
 
 # button 
